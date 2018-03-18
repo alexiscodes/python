@@ -1,5 +1,9 @@
 // script.js
 
+/* Making
+multiline
+comments*/
+
 var data = [3, 7, 2, 9, 1, 11];
 var sum = 0;
 
